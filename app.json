@@ -1,11 +1,11 @@
 {
-  "name": "LineBotTemplate",
+  "name": "weiLineBot",
   "description": "Line Bot API template",
-  "repository": "https://github.com/kkdai/LineBotTemplate",
+  "repository": "https://github.com/weicheng423/weiLineBot",
   "keywords": ["Line", "go", "static"],
   "buildpacks": [
     {
-      "url": "https://github.com/kr/heroku-buildpack-go.git"
+      "url": "https://github.com/weicheng423/weiLineBot.git"
     },
     {
       "url": "heroku/go"
